@@ -1,0 +1,9 @@
+# nakteankita88
+for study 
+ 
+def area of_cirle(r):
+         area=3.14*r*r
+         return(area)
+    r1=input('enter the value of radius')
+    area=area of_circle(r1):
+    print='the area is;area
